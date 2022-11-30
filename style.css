@@ -1,0 +1,101 @@
+body {background-color: hsl(0, 0%, 100%);
+    
+    color: rgb(7, 3, 20); margin: 20px;}
+    
+    
+    
+    h2,h3,h4{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: #010003e8;
+        text-align: center;
+        border:  solid 2px rgb(23, 102, 13);
+    }
+        p{background-color: rgb(245, 245, 245);
+        text-align: center;}
+        .TITULO1{ background-color: rgb(255, 255, 255);  text-align:center} 
+        .TITULO2{ background-color: rgb(255, 255, 255);  text-align:center} 
+        .TITULO3{ background-color: rgb(255, 255, 255);  text-align:center} 
+        .TITULO4{ background-color: rgb(255, 255, 255);  text-align:center}
+    .foto1{ margin: 2px solid; padding-left: 20%;}
+    .foto2{ margin: 2px solid; padding-left: 70%;}
+    .foto3{ margin: 2px solid; padding-left: 30%;}
+    .foto4{ margin: 2px solid; padding-left: 30%}
+    .icone1{ margin: 2px solid; padding-left: 70%;}
+
+.TITULO2{float: left;}
+       
+
+    #capa1{background-image:url(img/Foto\ full.jpg);
+        background-color: rgb(255, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px 0px;
+    border: solid 10px;
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    }
+   p{background-color: rgba(227, 227, 238, 0.733);
+    text-align: center;
+   }
+   #TOPO{ background-color: rgb(17, 1, 1);
+  height: 100px;
+  width:100%
+position fixed;
+   }
+   #logo{ background-color: rgb(0, 0, 14);
+ width: 10%;
+ height: 100px;
+
+ 
+
+   }
+   #CAPA2{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px 10px;
+    border: solid 10px;
+    font-size: 20px;
+    color: black;
+    padding: 100px;} 
+
+    
+
+
+    @media screen and(max-width:800px)
+    {
+        nav {visibility:  hidden;}
+        
+    .foto1 { 
+        width: 50%;
+
+
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    }
+
+
+
+    
+    
