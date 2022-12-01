@@ -34,9 +34,22 @@ body {background-color: hsl(0, 0%, 100%);
     color: black;
     padding: 10px;
     }
-   p{background-color: rgba(227, 227, 238, 0.733);
+    .capa5{ border: #010003e8; 
+
+
+
+
+    }
+   .primeirotitulo1{background-color: rgba(231, 231, 241, 0.733);
     text-align: center;
+    border: 5px;
    }
+   p{ border: solid px;
+background-color: rgb(255,255,255);
+color: rgb(8, 4, 12);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+
    #TOPO{ background-color: rgb(17, 1, 1);
   height: 100px;
   width:100%
@@ -56,36 +69,10 @@ position fixed;
     font-size: 20px;
     color: black;
     padding: 100px;} 
-
-    
-
-
-    @media screen and(max-width:800px)
+ 
+    @media screen and (max-width:800px) 
     {
-        nav {visibility:  hidden;}
-        
-    .foto1 { 
-        width: 50%;
-
-
-    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        nav { visibility: hidden;}
     
     
     
@@ -94,6 +81,30 @@ position fixed;
     
     
     }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
